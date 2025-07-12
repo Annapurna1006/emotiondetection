@@ -11,4 +11,4 @@ license: mit
 short_description: 'It is an emotion detection space '
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out the configuration reference at https://huggingface.co/spaces/Annu26/Emotiondetection1
